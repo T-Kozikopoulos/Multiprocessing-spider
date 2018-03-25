@@ -1,2 +1,2 @@
 # Multiprocessing-spider
-A spider for grabbing all the links for a random website that utilizes the multiprocessing module.
+A spider for grabbing all the links from a random website, utilizing the multiprocessing module.
